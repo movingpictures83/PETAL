@@ -1,0 +1,5 @@
+mode	0
+pathway	hsa00010
+gene	MAPK1
+depth	2
+cpus	1
