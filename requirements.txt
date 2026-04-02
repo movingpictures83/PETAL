@@ -1,0 +1,9 @@
+anytree
+beautifulsoup4
+inputimeout
+joblib
+numpy
+pandas
+progressbar2
+pywget
+requests
